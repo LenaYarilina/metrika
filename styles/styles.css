@@ -1,0 +1,122 @@
+body {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.сontainer {
+    width: 1150px;
+    height: 650px;
+    margin-top: 128px;
+    margin-left: 125px;
+    box-sizing: border-box;
+
+   
+    border: 2px solid red;
+}
+
+.сontainer h1 {
+    width: 956px;
+    height: 120px;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 60px;
+    color: #121212;
+    padding-bottom: 30px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.interior {
+    
+    width: 1150px;
+    height: 500px;
+
+    background-image: url(../recources/interior.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.interior-texte p {
+    color: #FFFFFF;
+    padding-top: 379px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    width: 430px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 19px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.container2 {
+    width: 1051px;
+    height: 518px;
+    margin-top: 151px;
+    box-sizing: border-box;
+    
+    border: solid blue;
+}
+
+.container2 p {
+    width: 51px;
+    height: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    color:#121212;
+    padding-bottom: 30px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+.container2 h2 {
+    width: 1048px;
+    height: 366px;
+    font-weight: 400;
+    font-size: 42px;
+    color:#121212;
+    padding-bottom: 30px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+.container2 a {
+   display: block;
+    width: 255px;
+    height: 67px;
+    border-radius: 5px;
+    color:white;
+    background: #AD1818;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:hover {
+    color: white;
+    background-color: rebeccapurple;
+}
