@@ -1,11 +1,81 @@
-body {
-  font-family: "Manrope", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
+html {
+    scroll-behavior: smooth;
 }
 
+body {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.Nav-section {
+    width: 1151.35px;
+    height: 25.18px;
+    margin-top: 32.82px;
+    margin-left: 124.65px;
+    margin-bottom: 70px;
+    color:#121212;
+
+
+    border: 2px solid red;
+}
+
+
+
+.Logo {
+    width: 126.89px;
+    height: 21.4px;
+    display: inline-block;
+    color: #121212;
+
+    
+
+    border: 2px solid blueviolet;
+}
+
+
+.nav {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2px;
+    margin-left: 515px;
+}
+
+.nav-link {
+    
+    text-align: center;
+    font-size: 18px;
+    color: #121212;
+    text-decoration: none;
+    margin-right: 60px;
+ 
+border: 2px solid rgb(238, 33, 33);
+}
+
+.nav-link2 {
+    
+    text-align: center;
+    font-size: 18px;
+    color: #121212;
+    text-decoration: none;
+    margin-right: 0px;
+
+border: 2px solid rgb(238, 33, 33);
+}
+
+
+
+.nav-link-active:hover {
+    text-decoration: underline;
+    color:#121212 ;
+    opacity: 0.5;
+}
+
+
+
+
+
 .сontainer {
-    margin-top: 128px;
     margin-left: 125px;
     width: 1150px;
     height: 650px;
@@ -270,3 +340,199 @@ border: 2px solid rgb(37, 37, 198);
     color: #FFFFFF;
     background-color: #121212;
 }
+
+.photo_project {
+    width: 1400px;
+    height: 717px;
+    background-image: url(/recources/Фото\ проекта.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+
+
+    border: 2px solid rgb(236, 25, 25);
+}
+
+.photo-texte h4 {
+    
+    margin-top: 575px;
+    margin-bottom: 60px;
+    margin-left: 125px;
+
+    width: 443px;
+    height: 82px;
+    
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    color: #FFFFFF;
+
+border: 2px solid rgb(204, 17, 225);
+}
+
+
+
+.contacts2 {
+    width: 1400px;
+    height: 635px;
+
+    border: 2px solid rgb(25, 18, 243);
+
+    position: relative;
+}
+
+.contacts_text {
+    margin-left: 124px;
+    margin-top: 186px;
+
+    width: 473px;
+    height: 217px;
+
+
+    border: 2px solid rgb(25, 18, 243);
+
+}
+
+.contacts_text h5 {
+    margin-top: 0%;
+    margin-bottom: 30px;
+
+    width: 90px;
+    height: 25px;
+    
+    font-weight: 400;
+    font-size: 18px;
+
+    color: #121212;
+
+    border: 2px solid rgb(204, 17, 225);
+}
+
+.contacts_text::before {
+    content: "";
+    position: absolute;
+
+    left: 125px;
+    top: 151px;
+
+    display: block;
+    margin: 0 auto;
+    width: 24px;
+    height: 24px;
+    border: 1px solid rgb(204, 17, 225);
+    background-image: url(/recources/phone.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: inline-block;
+    vertical-align: top;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contacts {
+    width: 1400px;
+    height: 635px;
+
+    border: 2px solid rgb(204, 17, 225);
+
+}
+
+.phone {
+    width: 24px;
+    height: 24px;
+    margin-top: 150px;
+    margin-left: 120px;
+    margin-bottom: 5px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+
+border: 2px solid rgb(204, 17, 225);
+
+}
+
+.contacts_texte {
+    margin-left: 124px;
+    margin-bottom: 32px;
+
+    width: 90px;
+    height: 25px;
+
+    font-weight: 400;
+    font-size: 18px;
+
+    color: #121212;
+
+
+    border: 2px solid rgb(204, 17, 225);
+   
+
+}
+
+
+.number_texte {
+
+    margin-left: 125px;
+    margin-bottom: 30px;
+
+    width: 472px;
+    height: 60px;
+    
+    font-weight: 400;
+    font-size: 55px;
+
+    color: #121212;
+
+    border: 2px solid rgb(204, 17, 225);
+
+}
+
+.email_texte{
+    
+    margin-left: 125px;
+    margin-bottom: 150px;
+
+    width: 412px;
+    height: 60px;
+
+    font-weight: 400;
+    font-size: 60px;
+
+    color: #121212;
+
+    border: 2px solid rgb(204, 17, 225);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
