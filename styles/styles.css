@@ -426,113 +426,120 @@ border: 2px solid rgb(204, 17, 225);
     background-repeat: no-repeat;
     background-position: 50%;
     display: inline-block;
-    vertical-align: top;
-
-
+    
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.contacts {
-    width: 1400px;
-    height: 635px;
-
-    border: 2px solid rgb(204, 17, 225);
-
-}
-
-.phone {
-    width: 24px;
-    height: 24px;
-    margin-top: 150px;
-    margin-left: 120px;
-    margin-bottom: 5px;
-
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
-
-border: 2px solid rgb(204, 17, 225);
-
-}
-
-.contacts_texte {
-    margin-left: 124px;
-    margin-bottom: 32px;
-
-    width: 90px;
-    height: 25px;
-
-    font-weight: 400;
-    font-size: 18px;
-
-    color: #121212;
-
-
-    border: 2px solid rgb(204, 17, 225);
-   
-
-}
-
-
-.number_texte {
-
-    margin-left: 125px;
+.telephone {
+    margin-top: 0%;
     margin-bottom: 30px;
 
     width: 472px;
     height: 60px;
     
     font-weight: 400;
-    font-size: 55px;
-
+    font-size: 54px;
+    line-height: 60px;
     color: #121212;
+    text-decoration: none;
 
     border: 2px solid rgb(204, 17, 225);
 
 }
 
-.email_texte{
-    
-    margin-left: 125px;
-    margin-bottom: 150px;
-
+.email {
     width: 412px;
     height: 60px;
-
+    
     font-weight: 400;
-    font-size: 60px;
-
+    font-size: 54px;
+    line-height: 120px;
+    text-decoration: none;
     color: #121212;
 
     border: 2px solid rgb(204, 17, 225);
 }
 
+.email-link-active:hover {
+    text-decoration: underline;
+    color:#121212;
+    opacity: 0.5;
+}
+
+.box-wrapper {
+    margin-left: 0%;
+
+    width: 1400px;
+    height: 229px;
+
+    background-color: #121212;
+    border: 2px solid red;
+}
+
+.box-wrapper-link {
+    margin-top: 60px;
+    margin-left: 470px;
+    
+    width: 450px;
+    height: 25px;
+    text-align: center;
+    
+    
+    
+    border: 2px solid rgb(238, 33, 33);
+}
 
 
+.box-wrapper-link2 {
+    display: inline-block;
+    box-sizing: border-box;
 
+    margin-right: 42px;
 
+    font-size: 18px;
+    line-height: 100%;
+    color: #FFFFFF;
+    text-decoration: none;
+   
 
+ 
+border: 2px solid rgb(238, 33, 33);
+}
 
+.box-wrapper-link3 {
+    display: inline-block;
+    box-sizing: border-box;
 
+    margin-right: 0px;
+    margin-bottom: 87px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: #FFFFFF;
+    text-decoration: none;
+   
 
+ 
+border: 2px solid rgb(238, 33, 33);
+}
 
+.box-wrapper-link-active:hover {
+    text-decoration: none;
+    color:#FFFFFF;
+    opacity: 0.5;
+}
 
+.box-wrapper-link p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+    text-align: center;
+    
 
+    width: 450px;
+    height: 27px;
+    font-size: 20px;
+    line-height: 100%;
+    color:#FFFFFF;
+    opacity: 0.5;
 
+}
