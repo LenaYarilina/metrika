@@ -9,10 +9,10 @@ body {
 }
 
 .Nav-section {
-    width: 1151.35px;
+    width: 1164px;
     height: 25.18px;
-    margin-top: 32.82px;
-    margin-left: 124.65px;
+    margin-top: 30px;
+    margin-left: 132px;
     margin-bottom: 70px;
     color:#121212;
 
@@ -38,7 +38,7 @@ body {
     display: inline-block;
     vertical-align: top;
     margin-top: 2px;
-    margin-left: 515px;
+    margin-left: 586px;
 }
 
 .nav-link {
@@ -47,7 +47,7 @@ body {
     font-size: 18px;
     color: #121212;
     text-decoration: none;
-    margin-right: 60px;
+    margin-right: 50px;
  
 border: 2px solid rgb(238, 33, 33);
 }
@@ -63,20 +63,14 @@ border: 2px solid rgb(238, 33, 33);
 border: 2px solid rgb(238, 33, 33);
 }
 
-
-
 .nav-link-active:hover {
     text-decoration: underline;
     color:#121212 ;
     opacity: 0.5;
 }
 
-
-
-
-
 .сontainer {
-    margin-left: 125px;
+    margin-left: 135px;
     width: 1150px;
     height: 650px;
     box-sizing: border-box;
@@ -91,9 +85,10 @@ border: 2px solid rgb(238, 33, 33);
     width: 956px;
     height: 120px;
     font-weight: 400;
-    font-size: 55px;
+    font-size: 63px;
     line-height: 60px;
     padding-bottom: 30px;
+    letter-spacing: -3px;
     color: #121212;
 }
 
@@ -123,7 +118,8 @@ border: 2px solid rgb(238, 33, 33);
 }
 
 .container2 {
-    margin-top: 151px;
+    margin-top: 148px;
+    margin-bottom: 150px;
     width: 1051px;
     height: 518px;
     box-sizing: border-box;
@@ -170,7 +166,6 @@ border: 2px solid rgb(238, 33, 33);
 }
 
 .item {
-    margin-top: 150px;
     margin-bottom: 150px;
     width: 1150px;
     height: 2122px;
@@ -182,7 +177,7 @@ border: 2px solid rgb(238, 33, 33);
 
 .title {
     margin-top: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 38px;
     width: 79px;
     height: 25px;
     font-weight: 400;
@@ -201,21 +196,22 @@ border: 2px solid rgb(37, 37, 198);
 }
 
 .item__image {
-    margin-top: 0px;
-    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     width: 1150px;
     height: 450px;
 }
 
 .item-project {
     margin-top: 0%;
-    margin-bottom: 15px;
-    width: 501px;
+    margin-bottom: 5px;
+    width: 540px;
     height: 41px;
     font-weight: 400;
-    font-size: 26px;
+    font-size: 30px;
     line-height: 100%;
     color: #121212;
+    letter-spacing: -1px;
 }
 
 .item__cart-btn {
@@ -223,31 +219,33 @@ border: 2px solid rgb(37, 37, 198);
     width: 127px;
     height: 27px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 23px;
     line-height: 100%;
-    letter-spacing: -3%;
+    letter-spacing: -3px;
     color: #AD1818;
 }
 
 .all_projects {
 
+    margin-bottom: 150px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    padding-left: 0%;
+    padding-right: 0%;
     width: 100%;
     font-family: Manrope;
     font-weight: 400;
     font-size: 30px;
     box-sizing: border-box;
-    padding-top: 56px;
-    padding-bottom: 56px;
-    padding-left: 0%;
-    padding-right: 0%;
     text-align: center;
     text-decoration: none;
     color: #AD1818;
     background-color: white;
     border: 1px solid #AD1818;
+    letter-spacing: -3px;
     border-radius: 4px;
     display: block;
-    margin-bottom: 150px;
+    
 }
 
 .all_projects:hover {
@@ -344,7 +342,7 @@ border: 2px solid rgb(37, 37, 198);
 .photo_project {
     width: 1400px;
     height: 717px;
-    background-image: url("/recources/Фото\ проекта.png");
+    background-image: url(../recources/Фото\ проекта.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -421,7 +419,7 @@ border: 2px solid rgb(204, 17, 225);
     width: 24px;
     height: 24px;
     border: 1px solid rgb(204, 17, 225);
-    background-image: url("/recources/phone.png");
+    background-image: url(../recources/phone.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
