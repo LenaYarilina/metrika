@@ -15,9 +15,6 @@ body {
     margin-left: 130px;
     margin-bottom: 70px;
     color:#121212;
-
-
-    border: 2px solid red;
 }
 
 
@@ -27,10 +24,6 @@ body {
     height: 21.4px;
     display: inline-block;
     color: #121212;
-
-    
-
-    border: 2px solid blueviolet;
 }
 
 
@@ -72,9 +65,6 @@ body {
     width: 1150px;
     height: 650px;
     box-sizing: border-box;
-
-   
-    border: 2px solid red;
 }
 
 .сontainer h1 {
@@ -121,8 +111,6 @@ body {
     width: 1051px;
     height: 518px;
     box-sizing: border-box;
-    
-    border: solid blue;
 }
 
 .container2 p {
@@ -175,7 +163,7 @@ body {
 
 .title {
     margin-top: 0px;
-    margin-bottom: 38px;
+    margin-bottom: 30px;
     width: 79px;
     height: 25px;
     font-weight: 400;
@@ -185,7 +173,7 @@ body {
 }
 
 .item-wrapper {
-    margin-bottom: 90px;
+    margin-bottom: 85px;
     width: 1150px;
     height: 548px;
 
@@ -238,7 +226,7 @@ body {
     color: #AD1818;
     background-color: white;
     border: 1px solid #AD1818;
-    letter-spacing: -3px;
+    letter-spacing: -1px;
     border-radius: 4px;
     display: block;
     
@@ -250,7 +238,7 @@ body {
 }
 
 .section_black {
-    margin-top: 3110px;
+    margin-top: 3090px;
     margin-left: 0%;
 
     width: 1400px;
@@ -277,12 +265,12 @@ body {
 .services {
     width: 1150px;
     height: 326px;
-    margin-bottom: 60px;
+    margin-bottom: 55px;
 }
 
 .item_image2 {
     margin-top: 0%;
-    margin-bottom: 15px;
+    margin-bottom: 0%;
     margin-left: 125px;
     width: 1150px;
     height: 270px;
@@ -296,7 +284,8 @@ body {
     margin-bottom: 0%;
     margin-left: 125px;
     
-    font-size: 28px;
+    font-size: 30px;
+    letter-spacing: -1px;
     color: #FFFFFF;
     background-color: #121212;
 }
@@ -310,7 +299,7 @@ body {
 
 .item_image3 {
     margin-top: 0%;
-    margin-bottom: 15px;
+    margin-bottom: 0%;
     margin-left: 125px;
     width: 1150px;
     height: 270px;
@@ -340,33 +329,34 @@ body {
 
 .photo-texte h4 {
     
-    margin-top: 575px;
+    margin-top: 578px;
     margin-bottom: 60px;
-    margin-left: 125px;
+    margin-left: 132px;
 
     width: 443px;
     height: 82px;
     
     font-weight: 400;
     font-size: 30px;
-    line-height: 100%;
+    line-height: 112%;
     color: #FFFFFF;
+    letter-spacing: -1px;
 }
 
 
 
 .contacts2 {
     width: 1400px;
-    height: 635px;
+    height: 545px;
 
     position: relative;
 }
 
 .contacts_text {
-    margin-left: 124px;
-    margin-top: 186px;
+    margin-left: 128px;
+    margin-top: 175px;
 
-    width: 473px;
+    width: 500px;
     height: 217px;
 
 
@@ -389,14 +379,14 @@ body {
     content: "";
     position: absolute;
 
-    left: 125px;
-    top: 151px;
+    left: 129px;
+    top: 143px;
 
     display: block;
     margin: 0 auto;
     width: 24px;
     height: 24px;
-    border: 1px solid rgb(204, 17, 225);
+    
     background-image: url(../recources/phone.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -413,10 +403,11 @@ body {
     height: 60px;
     
     font-weight: 400;
-    font-size: 54px;
+    font-size: 57px;
     line-height: 60px;
     color: #121212;
     text-decoration: none;
+    letter-spacing: -1px;
 
 }
 
@@ -425,7 +416,7 @@ body {
     height: 60px;
     
     font-weight: 400;
-    font-size: 54px;
+    font-size: 57px;
     line-height: 120px;
     text-decoration: none;
     color: #121212;
@@ -444,17 +435,15 @@ body {
     height: 229px;
 
     background-color: #121212;
-    border: 2px solid red;
 }
 
 .box-wrapper-link {
-    margin-top: 60px;
-    margin-left: 470px;
+    margin-top: 58px;
+    margin-left: 475px;
     
     width: 450px;
     height: 25px;
     text-align: center;
-    
 }
 
 
@@ -504,5 +493,6 @@ body {
     line-height: 100%;
     color:#FFFFFF;
     opacity: 0.5;
+    letter-spacing: 0px;
 
 }
