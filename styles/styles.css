@@ -9,10 +9,10 @@ body {
 }
 
 .Nav-section {
-    width: 1164px;
+    width: 1190px;
     height: 25.18px;
     margin-top: 30px;
-    margin-left: 132px;
+    margin-left: 130px;
     margin-bottom: 70px;
     color:#121212;
 
@@ -37,8 +37,8 @@ body {
 .nav {
     display: inline-block;
     vertical-align: top;
-    margin-top: 2px;
-    margin-left: 586px;
+    margin-top: -28px;
+    margin-left: 687px;
 }
 
 .nav-link {
@@ -47,9 +47,8 @@ body {
     font-size: 18px;
     color: #121212;
     text-decoration: none;
-    margin-right: 50px;
- 
-border: 2px solid rgb(238, 33, 33);
+    margin-right: 52px;
+
 }
 
 .nav-link2 {
@@ -60,7 +59,6 @@ border: 2px solid rgb(238, 33, 33);
     text-decoration: none;
     margin-right: 0px;
 
-border: 2px solid rgb(238, 33, 33);
 }
 
 .nav-link-active:hover {
@@ -191,8 +189,6 @@ border: 2px solid rgb(238, 33, 33);
     width: 1150px;
     height: 548px;
 
-border: 2px solid rgb(37, 37, 198);
-
 }
 
 .item__image {
@@ -261,8 +257,6 @@ border: 2px solid rgb(37, 37, 198);
     height: 1844px;
     background-color: #121212;
     box-sizing: border-box;
-
-    border: 2px solid red;
 }
 
 .container3 h3 {
@@ -284,8 +278,6 @@ border: 2px solid rgb(37, 37, 198);
     width: 1150px;
     height: 326px;
     margin-bottom: 60px;
-
-    border: 2px solid rgb(236, 25, 25);
 }
 
 .item_image2 {
@@ -313,8 +305,6 @@ border: 2px solid rgb(37, 37, 198);
     width: 1150px;
     height: 326px;
     margin-bottom: 60px;
-
-    border: 2px solid rgb(236, 25, 25);
 
 }
 
@@ -346,10 +336,6 @@ border: 2px solid rgb(37, 37, 198);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
-    
-
-
-    border: 2px solid rgb(236, 25, 25);
 }
 
 .photo-texte h4 {
@@ -365,8 +351,6 @@ border: 2px solid rgb(37, 37, 198);
     font-size: 30px;
     line-height: 100%;
     color: #FFFFFF;
-
-border: 2px solid rgb(204, 17, 225);
 }
 
 
@@ -374,8 +358,6 @@ border: 2px solid rgb(204, 17, 225);
 .contacts2 {
     width: 1400px;
     height: 635px;
-
-    border: 2px solid rgb(25, 18, 243);
 
     position: relative;
 }
@@ -387,8 +369,6 @@ border: 2px solid rgb(204, 17, 225);
     width: 473px;
     height: 217px;
 
-
-    border: 2px solid rgb(25, 18, 243);
 
 }
 
@@ -403,8 +383,6 @@ border: 2px solid rgb(204, 17, 225);
     font-size: 18px;
 
     color: #121212;
-
-    border: 2px solid rgb(204, 17, 225);
 }
 
 .contacts_text::before {
@@ -440,8 +418,6 @@ border: 2px solid rgb(204, 17, 225);
     color: #121212;
     text-decoration: none;
 
-    border: 2px solid rgb(204, 17, 225);
-
 }
 
 .email {
@@ -453,8 +429,6 @@ border: 2px solid rgb(204, 17, 225);
     line-height: 120px;
     text-decoration: none;
     color: #121212;
-
-    border: 2px solid rgb(204, 17, 225);
 }
 
 .email-link-active:hover {
@@ -481,9 +455,6 @@ border: 2px solid rgb(204, 17, 225);
     height: 25px;
     text-align: center;
     
-    
-    
-    border: 2px solid rgb(238, 33, 33);
 }
 
 
@@ -499,8 +470,6 @@ border: 2px solid rgb(204, 17, 225);
     text-decoration: none;
    
 
- 
-border: 2px solid rgb(238, 33, 33);
 }
 
 .box-wrapper-link3 {
@@ -514,10 +483,6 @@ border: 2px solid rgb(238, 33, 33);
     line-height: 100%;
     color: #FFFFFF;
     text-decoration: none;
-   
-
- 
-border: 2px solid rgb(238, 33, 33);
 }
 
 .box-wrapper-link-active:hover {
