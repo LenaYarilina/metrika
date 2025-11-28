@@ -344,7 +344,7 @@ border: 2px solid rgb(37, 37, 198);
 .photo_project {
     width: 1400px;
     height: 717px;
-    background-image: url(/recources/Фото\ проекта.png);
+    background-image: url(./recources/Фото\ проекта.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -421,7 +421,7 @@ border: 2px solid rgb(204, 17, 225);
     width: 24px;
     height: 24px;
     border: 1px solid rgb(204, 17, 225);
-    background-image: url(/recources/phone.png);
+    background-image: url(./recources/phone.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
