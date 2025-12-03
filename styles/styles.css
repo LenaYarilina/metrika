@@ -11,8 +11,8 @@ body {
 .Nav-section {
     width: 1190px;
     height: 25.18px;
-    margin-top: 30px;
-    margin-left: 130px;
+    margin-top: 33px;
+    margin-left: 135px;
     margin-bottom: 70px;
     color:#121212;
 }
@@ -106,7 +106,7 @@ body {
 }
 
 .container2 {
-    margin-top: 148px;
+    margin-top: 153px;
     margin-bottom: 150px;
     width: 1051px;
     height: 518px;
@@ -156,9 +156,6 @@ body {
     width: 1150px;
     height: 2122px;
     border-width: 1px solid #AD1818;
-
-    border: 2px solid green;
-
 }
 
 .title {
@@ -188,7 +185,7 @@ body {
 
 .item-project {
     margin-top: 0%;
-    margin-bottom: 5px;
+    margin-bottom: 11px;
     width: 540px;
     height: 41px;
     font-weight: 400;
@@ -203,20 +200,21 @@ body {
     width: 127px;
     height: 27px;
     text-decoration: none;
-    font-size: 23px;
+    font-size: 21px;
     line-height: 100%;
-    letter-spacing: -3px;
+    letter-spacing: -1px;
     color: #AD1818;
 }
 
 .all_projects {
 
     margin-bottom: 150px;
-    padding-top: 56px;
+    padding-top: 70px;
     padding-bottom: 56px;
     padding-left: 0%;
     padding-right: 0%;
     width: 100%;
+    height: 170px;
     font-family: Manrope;
     font-weight: 400;
     font-size: 30px;
@@ -250,9 +248,9 @@ body {
 .container3 h3 {
     width: 66px;
     height: 25px;
-    padding-top: 151px;
+    padding-top: 155px;
     padding-bottom: 2px;
-    padding-left: 127px;
+    padding-left: 136px;
     padding-right: 1207px;
     margin-top: 0%;
     margin-bottom: 34px;
@@ -265,13 +263,13 @@ body {
 .services {
     width: 1150px;
     height: 326px;
-    margin-bottom: 55px;
+    margin-bottom: 0%;
 }
 
 .item_image2 {
     margin-top: 0%;
     margin-bottom: 0%;
-    margin-left: 125px;
+    margin-left: 135px;
     width: 1150px;
     height: 270px;
 }
@@ -280,9 +278,9 @@ body {
 .item_services {
     width: 541px;
     height: 41px;
-    margin-top: 0%;
+    margin-top: 11px;
     margin-bottom: 0%;
-    margin-left: 125px;
+    margin-left: 140px;
     
     font-size: 30px;
     letter-spacing: -1px;
@@ -298,9 +296,9 @@ body {
 }
 
 .item_image3 {
-    margin-top: 0%;
+    margin-top: 11px;
     margin-bottom: 0%;
-    margin-left: 125px;
+    margin-left: 135px;
     width: 1150px;
     height: 270px;
 }
@@ -319,6 +317,7 @@ body {
 }
 
 .photo_project {
+
     width: 1400px;
     height: 717px;
     background-image: url(../recources/Фото\ проекта.png);
@@ -329,9 +328,11 @@ body {
 
 .photo-texte h4 {
     
-    margin-top: 578px;
+    margin-top: 0%;
     margin-bottom: 60px;
     margin-left: 132px;
+
+    padding-top: 585px;
 
     width: 443px;
     height: 82px;
