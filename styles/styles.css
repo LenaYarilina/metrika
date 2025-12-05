@@ -263,7 +263,7 @@ body {
 .services {
     width: 1150px;
     height: 326px;
-    margin-bottom: 0%;
+    margin-bottom: 60px;
 }
 
 .item_image2 {
@@ -304,14 +304,14 @@ body {
 }
 
 .item_services_last {
-    width: 665px;
+    width: 700px;
     height: 41px;
     margin-top: 0%;
-    margin-left: 125px;
+    margin-left: 140px;
     margin-bottom: 150px;
 
     
-    font-size: 28px;
+    font-size: 30px;
     color: #FFFFFF;
     background-color: #121212;
 }
@@ -348,14 +348,14 @@ body {
 
 .contacts2 {
     width: 1400px;
-    height: 545px;
+    height: 330px;
 
     position: relative;
 }
 
 .contacts_text {
-    margin-left: 128px;
-    margin-top: 175px;
+    margin-left: 124px;
+    margin-top: 186px;
 
     width: 500px;
     height: 217px;
@@ -379,12 +379,9 @@ body {
 .contacts_text::before {
     content: "";
     position: absolute;
-
-    left: 129px;
-    top: 143px;
-
-    display: block;
-    margin: 0 auto;
+    top: -40px;
+    left: 120px;
+    
     width: 24px;
     height: 24px;
     
@@ -439,11 +436,14 @@ body {
 }
 
 .box-wrapper-link {
-    margin-top: 58px;
-    margin-left: 475px;
-    
+
+    margin-left: 470px;
+
+    padding-top: 70px;
+
     width: 450px;
     height: 25px;
+
     text-align: center;
 }
 
@@ -467,7 +467,7 @@ body {
     box-sizing: border-box;
 
     margin-right: 0px;
-    margin-bottom: 87px;
+    margin-bottom: 90px;
     font-weight: 400;
     font-size: 18px;
     line-height: 100%;
